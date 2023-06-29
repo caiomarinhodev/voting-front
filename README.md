@@ -2,9 +2,14 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 
 ## Getting Started
 
+### Requirements
+Node version 16.20.0
+
 First, run the development server:
 
 ```bash
+npm install
+# and 
 npm run dev
 # or
 yarn dev
